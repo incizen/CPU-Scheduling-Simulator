@@ -3,8 +3,10 @@ This is an operating systems project that focuses on CPU scheduling. The CPU Sch
 Round Robin, and Priority scheduling using java with a simple but usefull GUI using java swing.
 
 ## Requirements
-- Java Development Kit(JDK)8 
+- Java Development Kit(JDK)8
+ 
 -A Java compiler or an IDE
+
 -No external libraries needed
 
 ## How to run 
