@@ -4,10 +4,8 @@ Round Robin, and Priority scheduling using java with a simple but usefull GUI us
 
 ## Requirements
 - Java Development Kit(JDK)8
- 
--A Java compiler or an IDE
-
--No external libraries needed
+- A Java compiler or an IDE
+- No external libraries needed
 
 ## How to run 
 1. Clone the repo:
