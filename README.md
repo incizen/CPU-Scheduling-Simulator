@@ -10,8 +10,7 @@ Round Robin, and Priority scheduling using java with a simple but usefull GUI us
 ## How to run 
 1. Clone the repo:
    ```
-   (https://github.com/incizen/Python-Messaging-App)
-   cd Messaging App
+   (https://github.com/incizen/CPU-Scheduling-Simulator.git)
    ```
 
 2. Open the terminal and run: 
